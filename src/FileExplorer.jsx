@@ -2,7 +2,6 @@ import { useState } from "react";
 import FileAndFolder from "./FileAndFolder";
 import "./styles.css";
 
-
 const initialData = [
   {
     id: 1,
