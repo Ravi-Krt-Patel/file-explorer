@@ -7,7 +7,9 @@ const initialData = [
     id: 1,
     name: "public",
     isFolder: true,
-    children: [{ id: 2, name: "index.html", isFolder: false }],
+    children: [{ id: 2, name: "index.html", isFolder: false },
+      { id: 2, name: "user.html", isFolder: false }
+    ],
   },
   {
     id: 3,
